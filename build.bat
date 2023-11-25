@@ -24,6 +24,6 @@ py -3.10 -m pip install -U -r requirements.txt
 cls
 
 if exist build rmdir /s /q build
-py -3.10 builder/main.py
+py -3.10 ./builder/main.py
 
 pause
